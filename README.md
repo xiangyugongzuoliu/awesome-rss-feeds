@@ -272,21 +272,6 @@
 
 > 🎁 **会员附赠翔宇写的 RSS 命令行工具**，把本仓库 OPML 一键变成每日简报和竞品监控。
 
----
-
-<div align="center">
-
-### ⭐ 如果这个仓库对你有用，给一个 Star 让翔宇知道
-
-[![翔宇官网](https://img.shields.io/badge/🌐_官网-xiangyugongzuoliu.com-FF6B35?style=for-the-badge)](https://xiangyugongzuoliu.com)
-[![YouTube](https://img.shields.io/badge/📺_YouTube-频道-FF0000?style=for-the-badge)](https://www.youtube.com/@xiangyugongzuoliu)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-Profile-181717?style=for-the-badge)](https://github.com/xiangyugongzuoliu)
-
-> 🎯 **工具一直在变，工作流不变。**
->
-> 🛠️ **普通人对抗专业壁垒的唯一武器，就是工具。**
-
-</div>
 
 ---
 
