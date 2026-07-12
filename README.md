@@ -9,7 +9,7 @@
 [![English](https://img.shields.io/badge/English-1207-2188FF?style=for-the-badge)](#-英文1207-源)
 [![分类](https://img.shields.io/badge/分类-30-orange?style=for-the-badge)](#-30-秒上手-quick-start)
 [![双语](https://img.shields.io/badge/双语-中%20%2B%20英-9b59b6?style=for-the-badge)](#-30-秒上手-quick-start)
-[![Stars](https://img.shields.io/github/stars/xiangyugongzuoliu/awesome-rss-feeds?style=for-the-badge&logo=github&color=181717)](https://github.com/xiangyugongzuoliu/awesome-rss-feeds/stargazers)
+[![Stars](https://img.shields.io/github/stars/xiangyugongzuoliu/awesome-rss-feeds-list?style=for-the-badge&logo=github&color=181717)](https://github.com/xiangyugongzuoliu/awesome-rss-feeds-list/stargazers)
 
 </div>
 
@@ -128,7 +128,7 @@
 ```text
 你（对 Claude Code 或 Codex）：
 
-  下载 https://raw.githubusercontent.com/xiangyugongzuoliu/awesome-rss-feeds/main/feeds/cn-essays.opml，
+  下载 https://raw.githubusercontent.com/xiangyugongzuoliu/awesome-rss-feeds-list/main/feeds/cn-essays.opml，
   用 feedparser 解析里面所有源，抓取最近 24 小时的文章正文，
   用中文写 500 字摘要日报，按主题分组（思考 / 文化 / 技术 / 时事），
   保存到本地笔记目录。
@@ -215,7 +215,7 @@
 
 ## 🤝 怎么提一个新源 (Contribute)
 
-打开 [Issue 页面](https://github.com/xiangyugongzuoliu/awesome-rss-feeds/issues) 提交：
+打开 [Issue 页面](https://github.com/xiangyugongzuoliu/awesome-rss-feeds-list/issues) 提交：
 
 - 🆕 **提一个新源** — 填 RSS URL + 网站主页 + 推荐分类 + 简短理由
 - 💀 **报告失效源** — 给出失效 URL
