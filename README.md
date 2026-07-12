@@ -287,3 +287,34 @@
 > 🛠️ **普通人对抗专业壁垒的唯一武器，就是工具。**
 
 </div>
+
+---
+
+## 👋 更多翔宇工作流项目
+
+| 项目 | 简介 |
+|---|---|
+| ✅ [awesome-rss-feeds-list](https://github.com/xiangyugongzuoliu/awesome-rss-feeds-list) | 全网最全 RSS 订阅源汇总，30 分类 |
+| [xy-chuangcut-deploy-template](https://github.com/xiangyugongzuoliu/xy-chuangcut-deploy-template) | Zeabur 部署模板 · 创剪视频工作流 |
+| [xy-research-deep-template](https://github.com/xiangyugongzuoliu/xy-research-deep-template) | Zeabur 部署模板 · 深度研究引擎 |
+| [xy-wechat-markdown-template](https://github.com/xiangyugongzuoliu/xy-wechat-markdown-template) | Zeabur 部署模板 · 微信 Markdown 排版 |
+| [xy-nocode-toolkit-template](https://github.com/xiangyugongzuoliu/xy-nocode-toolkit-template) | Zeabur 部署模板 · NCA Toolkit |
+| [awp-workflow-agent-spec](https://github.com/xiangyugongzuoliu/awp-workflow-agent-spec) | Claude Code Skill 工程规范 |
+
+🌐 [xiangyugongzuoliu.com](https://xiangyugongzuoliu.com) · 👤 [@xiangyugongzuoliu](https://github.com/xiangyugongzuoliu)
+
+---
+
+<div align="center">
+
+### 如果这个项目对你有帮助，点个 ⭐ 让更多人看到
+
+[![官网](https://img.shields.io/badge/🌐_官网-xiangyugongzuoliu.com-10B981?style=flat)](https://xiangyugongzuoliu.com)
+[![YouTube](https://img.shields.io/badge/▶_YouTube-翔宇工作流-FF0000?style=flat)](https://youtube.com/@xiangyugongzuoliu)
+[![GitHub](https://img.shields.io/badge/GitHub-翔宇工作流-181717?style=flat)](https://github.com/xiangyugongzuoliu)
+
+**工具一直在变，工作流不变。**
+
+**普通人对抗专业壁垒的唯一武器，就是工具。**
+
+</div>
