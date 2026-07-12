@@ -278,7 +278,7 @@
 
 | 项目 | 简介 |
 |---|---|
-| ✅ [awesome-rss-feeds-list](https://github.com/xiangyugongzuoliu/awesome-rss-feeds-list) | 全网最全 RSS 订阅源汇总，30 分类 |
+| **[awesome-rss-feeds-list](https://github.com/xiangyugongzuoliu/awesome-rss-feeds-list)** | **全网最全 RSS 订阅源汇总，30 分类** |
 | [xy-chuangcut-deploy-template](https://github.com/xiangyugongzuoliu/xy-chuangcut-deploy-template) | Zeabur 部署模板 · 创剪视频工作流 |
 | [xy-research-deep-template](https://github.com/xiangyugongzuoliu/xy-research-deep-template) | Zeabur 部署模板 · 深度研究引擎 |
 | [xy-wechat-markdown-template](https://github.com/xiangyugongzuoliu/xy-wechat-markdown-template) | Zeabur 部署模板 · 微信 Markdown 排版 |
