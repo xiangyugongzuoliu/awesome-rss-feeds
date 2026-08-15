@@ -30,6 +30,7 @@
 ---
 
 ## 🤔 为什么 RSS 在算法时代反而更重要 (Why RSS)
+- [n8n JSON Feed to Telegram](https://github.com/DeusAcc/n8n-json-feed-to-telegram) - Free n8n workflow that polls a JSON/RSS feed and alerts on Telegram only for new entries passing a filter, no external database
 
 > 💡 **核心理由**：① 没有算法干预 · ② 没有广告打扰 · ③ 没有平台绑架 · ④ 跨平台跨终端通用
 
